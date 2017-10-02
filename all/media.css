@@ -1,0 +1,21 @@
+@media only screen and (max-width:1200px){#portfolio_grid{;;min-height:175px;}
+}
+@media only screen and (max-width:992px){.personal_last_block{margin-top:35px;}
+}
+@media only screen and (max-width:768px){.res_right, .res_left{text-align:left;}
+.res_right h3, .res_left h3, .resume-icon{text-align:center;margin-bottom:10px;}
+.contact_box, .contact_box p{text-align:center;}
+#portfolio_grid, .grid__second{-webkit-justify-content:center;justify-content:center;}
+#about .section_content .container {flex-direction: column;}
+.foto__me {}
+.about__me {}
+.personal_last_block {}
+}
+@media only screen and (max-width:760px){.container {flex-direction: column} #portfolio_grid, .grid__second {} .portfolio_item {flex-basis:40%;}.main_footer .container {flex-direction: row} .res_right {;;border:0;;;margin:0;;;padding:0;}}
+@media only screen and (max-width:480px){.portfolio_item {flex-basis:60%;height: 18vh}}
+@media only screen and (max-width:320px){}
+@media only screen and (min-width:320px){}
+@media only screen and (min-width:480px){}
+@media only screen and (min-width:768px){}
+@media only screen and (min-width:992px){}
+@media only screen and (min-width:1200px){}
